@@ -34,10 +34,10 @@ const Home = () => {
             className='w-full pt-36 pb-14 lg:pt-0 lg:pb-0 lg:w-auto z-10 lg:absolute flex flex-col justify-center items-center lg:items-start'
           >
             <h1 className='h1'>
-              Dimitris Dekavallas <br /> & Guitarist
+              [your name] <br /> & [your profession] 
             </h1>
             <p className='text-[26px] lg:text-[36px] font-primary mb-4 lg:mb-12'>
-              Budapest, HU
+              Your Location
             </p>
             <Link to={'/contact'} className='btn mb-[30px]'>
               Contact Me
