@@ -21,7 +21,7 @@ const Header = () => {
           to={'/'}
           className='max-w-[200px]'
         >
-          <img src={Logo} alt='' />
+          <span>your logo</span>
         </Link>
         {/* nav - initially hidden - show on desktop mode */}
         <nav
